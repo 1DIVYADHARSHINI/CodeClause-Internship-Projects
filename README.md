@@ -22,3 +22,12 @@ Description- Create a web application that allows users to explore and search fo
   
 ## Installation and Setup
 To run the **Movie Explorer System** locally, follow these steps:  
+### Prerequisites
+- Make sure you have **Node.js** installed on your system.
+- Obtain an API key from the Movie Database (e.g., TMDb API).
+
+### Steps
+**Clone the repository**:
+   ```bash
+   git clone https://github.com/1DIVYADHARSHINI/CodeClause-Internship-Projects.git
+   cd CodeClause-Internship-Projects/movie-explorer-system
