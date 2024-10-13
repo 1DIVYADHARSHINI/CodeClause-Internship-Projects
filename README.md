@@ -36,4 +36,7 @@ To run the **Movie Explorer System** locally, follow these steps:
 **Clone the repository**:
    ```bash
    git clone https://github.com/1DIVYADHARSHINI/CodeClause-Internship-Projects.git
-   cd CodeClause-Internship-Projects/movie-explorer-system
+   cd CodeClause-Internship-Projects/movie-explorer-system.
+
+
+
