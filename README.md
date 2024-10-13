@@ -12,6 +12,9 @@ Description- Create a web application that allows users to explore and search fo
 ## Project Demo
 
 Click the image below to watch the demo video of the **Movie Explorer System** on Vimeo:
+[![Watch the video](https://img.shields.io/badge/Watch-Video-blue)](https://vimeo.com/1016939097?share=copy)
+[![Project 1](project-1.png)](https://vimeo.com/1016939097?share=copy)
+
 
 [![Watch the video](https://user-images.githubusercontent.com/your_image_link.png)](https://vimeo.com/1016939097?share=copy)
 
