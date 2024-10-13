@@ -36,7 +36,19 @@ To run the **Movie Explorer System** locally, follow these steps:
 **Clone the repository**:
    ```bash
    git clone https://github.com/1DIVYADHARSHINI/CodeClause-Internship-Projects.git
-   cd CodeClause-Internship-Projects/movie-explorer-system.
+   cd CodeClause-Internship-Projects/movie-explorer-system
+
+<br>
+# Project 2: ToDo List Web App
+
+## Description
+The **ToDo List Web App** is a simple, intuitive application that helps users manage their daily tasks. Built with a responsive landing page design, the app includes sections for features, user testimonials, and engaging animations to enhance the user experience.
+
+
+
+
+
+
 
 
 
