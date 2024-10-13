@@ -9,6 +9,12 @@ This repository showcases three projects I developed during my internship at Cod
 ## Project 1: Movie Explorer System
 ### Description
 Description- Create a web application that allows users to explore and search for movies. Users can view details about each movie, such as its title, release date, genre, and cast. Implement features like a search bar, movie categorization, and a movie detail page
+## Project Demo
+
+Click the image below to watch the demo video of the **Movie Explorer System** on Vimeo:
+
+[![Watch the video](https://user-images.githubusercontent.com/your_image_link.png)](https://vimeo.com/1016939097?share=copy)
+
 ## Features
 - Search movies by title, genre, or release year.
 - Display detailed information such as synopsis, ratings, and release date.
