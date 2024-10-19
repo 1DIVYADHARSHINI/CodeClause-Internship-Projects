@@ -68,10 +68,6 @@ Watch the demo video of the **ToDo List Web App** on Vimeo:
    cd CodeClause-Internship-Projects/todo-list-web-app
 ```    
 
-
-
-
-
 [![Watch the video](https://img.shields.io/badge/Watch-Video-blue)](https://vimeo.com/1016939097?share=copy)
 
 
