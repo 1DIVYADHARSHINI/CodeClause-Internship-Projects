@@ -67,8 +67,30 @@ Watch the demo video of the **ToDo List Web App** on Vimeo:
   git clone https://github.com/1DIVYADHARSHINI/CodeClause-Internship-Projects.git
    cd CodeClause-Internship-Projects/todo-list-web-app
 ```    
+# Project 2: Real Time Language Translation Tool
+## Description
 
-[![Watch the video](https://img.shields.io/badge/Watch-Video-blue)](https://vimeo.com/1016939097?share=copy)
+The **Real Time Language Translation Tool** is a powerful web application that supports translation between multiple languages. It provides an intuitive user interface to easily translate text in real time. Built with a responsive design, this tool enhances the user experience with smooth animations and a clean interface.
+## Project Demo
+
+Watch the demo video of the **Real Time Language Translation Tool** on Vimeo:
+
+[![Watch the video](https://img.shields.io/badge/Watch-Video-blue)](https://vimeo.com/1016939881?share=copy)
+## Features
+
+- **Real-Time Translation**: Instant translation across multiple languages.
+- **Multi-Language Support**: Translate between a wide range of languages.
+- **Responsive Design**: Fully responsive for mobile, tablet, and desktop.
+- **Smooth Animations**: Enhances the translation experience with transitions and effects.
+- **Simple UI**: Easy-to-use interface for quick translation tasks.
+## Technologies Used
+
+- **HTML5**: For structuring the app.
+- **CSS3 (with Animations)**: Used for layout design, responsiveness, and effects.
+- **JavaScript**: Powers the real-time translation and interactivity.
+- **Google Cloud Translation API**: Integrates with the Google Cloud API to perform translations.
+  
+  
 
 
 
