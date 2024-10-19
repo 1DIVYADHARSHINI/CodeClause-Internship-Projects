@@ -74,9 +74,10 @@ The **Real Time Language Translation Tool** is a powerful web application that s
 ## Project Demo
 
 Watch the demo video of the **Real Time Language Translation Tool** on Vimeo:
+
 [![Watch the video](https://img.shields.io/badge/Watch-Video-blue)](https://vimeo.com/1016938387)
 
-[![Watch the video](https://img.shields.io/badge/Watch-Video-blue)](https://vimeo.com/1016939881?share=copy)
+
 ## Features
 
 - **Real-Time Translation**: Instant translation across multiple languages.
