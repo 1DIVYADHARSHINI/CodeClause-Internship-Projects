@@ -89,6 +89,16 @@ Watch the demo video of the **Real Time Language Translation Tool** on Vimeo:
 - **CSS3 (with Animations)**: Used for layout design, responsiveness, and effects.
 - **JavaScript**: Powers the real-time translation and interactivity.
 - **Google Cloud Translation API**: Integrates with the Google Cloud API to perform translations.
+## How to Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+git clone https://github.com/1DIVYADHARSHINI/CodeClause-Internship-Projects.git
+
+# Go into the repository
+cd CodeClause-Internship-Projects/real-time-language-translation-tool  
   
   
 
