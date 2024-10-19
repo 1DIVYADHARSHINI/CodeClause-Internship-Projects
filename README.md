@@ -67,7 +67,7 @@ Watch the demo video of the **ToDo List Web App** on Vimeo:
   git clone https://github.com/1DIVYADHARSHINI/CodeClause-Internship-Projects.git
    cd CodeClause-Internship-Projects/todo-list-web-app
 ```    
-# Project 2: Real Time Language Translation Tool
+# Project 3: Real Time Language Translation Tool
 ## Description
 
 The **Real Time Language Translation Tool** is a powerful web application that supports translation between multiple languages. It provides an intuitive user interface to easily translate text in real time. Built with a responsive design, this tool enhances the user experience with smooth animations and a clean interface.
